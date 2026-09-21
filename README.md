@@ -47,7 +47,7 @@ En esta sección se incorporan capturas de pantalla del desarrollo y de la ejecu
 
 La siguiente captura muestra la ejecución correcta del sistema de recomendación y los productos obtenidos como resultado.
 
-![alt text](<Captura de pantalla 2026-09-21 192434.png>)
+![Ejecución del sistema](Captura%20de%20pantalla%202026-09-21%20192434.png)
 
 ## Conclusión
 
